@@ -60,38 +60,3 @@ Password: 123456
   </a>
 </p>
 
-## Support
-
-If you like my work, feel free to:
-
-- ⭐ this repository. It helps.
-- [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)][tweet] about EverShop. Thank you!
-
-[tweet]: https://twitter.com/intent/tweet?url=https%3A%2F%2Fgithub.com%2Fevershopcommerce%2Fevershop&text=Awesome%20React%20Ecommerce%20Project&hashtags=react,ecommerce,expressjs,graphql
-### Ask a question about EverShop
-
-You can ask questions, and participate in discussions about EverShop-related topics in the EverShop Discord channel.
-
-<a href="https://discord.gg/GSzt7dt7RM"><img src="https://raw.githubusercontent.com/evershopcommerce/evershop/dev/.github/images/discord_banner_github.svg" /></a>
-
-### Create a bug report
-
-If you see an error message or run into an issue, please [create bug report](https://github.com/evershopcommerce/evershop/issues/new). This effort is valued and it will help all EverShop users.
-
-
-### Submit a feature request
-
-If you have an idea, or you're missing a capability that would make development easier and more robust, please [Submit feature request](https://github.com/evershopcommerce/evershop/issues/new).
-
-If a similar feature request already exists, don't forget to leave a "+1".
-If you add some more information such as your thoughts and vision about the feature, your comments will be embraced warmly :)
-
-## Contributing
-
-EverShop is an open-source project. We are committed to a fully transparent development process and appreciate highly any contributions. Whether you are helping us fix bugs, proposing new features, improving our documentation or spreading the word - we would love to have you as part of the EverShop community.
-
-Please refer to our [Contribution Guidelines](./CONTRIBUTING.md) and [Code of Conduct](./CODE_OF_CONDUCT.md).
-
-## License
-
-[GPL-3.0 License](https://github.com/evershopcommerce/evershop/blob/main/LICENSE)
